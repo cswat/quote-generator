@@ -3,27 +3,37 @@ var quoteList = [
     {
         Text: 'I love you the more in that I believe you had liked me for my own sake and for nothing else.',
         LName: 'Keats',
-        FName: 'John'
+        FName: 'John',
+        Year: '',
+        Citation: ''
     },
     {
         Text: 'But man is not made for defeat. A man can be destroyed but not defeated.',
         LName: 'Hemingway',
-        FName: 'Ernest'
+        FName: 'Ernest',
+        Year: '',
+        Citation: ''
     },
     {
         Text: 'When you reach the end of your rope, tie a knot in it and hang on.',
         LName: 'Roosevelt',
         FName: 'Franklin'
+        Year: '',
+        Citation: ''
     },
     {
         Text: 'Let us sacrifice our today so that our children can have a better tomorrow.',
         LName: 'Kalam',
         FName: 'Abdul'
+        Year: '',
+        Citation: ''
     },
     {
         Text: 'You cannot shake hands with a clenched fist.',
         LName: 'Gandhi',
         FName: 'Indira'
+        Year: '',
+        Citation: ''
     }
 ]
 
