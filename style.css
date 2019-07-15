@@ -1,0 +1,17 @@
+br {
+    display: block;
+    content: "";
+    margin-top: 0;
+}
+
+div {
+    display: block;
+}
+
+h1 {
+    color: blue;
+}
+
+.author {
+    text-align: center;
+}
